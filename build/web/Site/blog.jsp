@@ -9,7 +9,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Blog - Puppy Website Template</title>
+	<title>Heróis</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
